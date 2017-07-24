@@ -1,5 +1,5 @@
 # RectangularMembraneFX
-Rectangular Membrane vibration visualization using JavaFX using [FXyz](https://github.com/FXyz/FXyz)
+Rectangular Membrane vibration visualization using JavaFX and [FXyz](https://github.com/FXyz/FXyz)
 
 
 For more informatin about this visualization see [My blog post](http://rimdiary.com/math-visualization/).
